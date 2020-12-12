@@ -9,13 +9,29 @@ PHP 8.0.0 Released! 26 Nov 2020
 ## PHP 8.0 comes with numerous improvements and new features such as:
 
 Union Types
+
+
 Named Arguments
+
+
 Match Expressions
+
+
 Attributes
+
+
 Constructor Property Promotion
+
+
 Nullsafe Operator
+
+
 Weak Maps
+
+
 Just In Time Compilation
+
+
 And much much more...
 
 ########################################################################
